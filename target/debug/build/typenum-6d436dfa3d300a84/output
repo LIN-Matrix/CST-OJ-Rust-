@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/linyichen/learnspace/oj-lin-yc21/target/debug/build/typenum-6d436dfa3d300a84/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/linyichen/learnspace/oj-lin-yc21/target/debug/build/typenum-6d436dfa3d300a84/out/op.rs
